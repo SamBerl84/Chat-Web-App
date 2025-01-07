@@ -121,3 +121,6 @@ In the sftpNewFile flow, update the localPath variable with your desired local f
 Running the MuleSoft Application
 Right-click on your project in Anypoint Studio
 Select Run As > Mule Application
+**
+A Snapshot of how the Frontend Application Looks!**
+![image](https://github.com/user-attachments/assets/b0286d75-fc8d-409f-9220-60010dee148c)
